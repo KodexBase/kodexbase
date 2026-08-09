@@ -1,35 +1,41 @@
-# KODEXBASE
+KODEXBASE
 
-### TECNOLOGIA QUE SUSTENTA O FUTURO.
+TECNOLOGIA QUE
+SUSTENTA O FUTURO.
 
-Desenvolvimento de sistemas, aplicativos,
-automações e integrações para empresas.
+Software sob medida para empresas
+que querem crescer com estrutura.
 
----
+[SISTEMAS] [APLICATIVOS] [AUTOMAÇÃO]
 
-## O QUE FAZEMOS
 
-- Sistemas personalizados
-- Aplicativos
-- Automação de processos
-- Dashboards
-- Integrações
-- Sistemas internos
+01 — O QUE FAZEMOS
 
----
+Construímos soluções digitais para
+simplificar operações e transformar
+processos em sistemas.
 
-## PROJETOS
 
-Conheça alguns dos projetos desenvolvidos pela KodexBase.
+02 — SOLUÇÕES
 
----
+→ Sistemas personalizados
+→ Aplicativos
+→ Automação
+→ Dashboards
+→ Integrações
+→ Sistemas internos
 
-## TECNOLOGIAS
 
-C# · .NET · TypeScript · SQL · Flutter · Node
+03 — PROJETOS
 
----
+Projetos desenvolvidos pela KodexBase.
 
-### KODEXBASE
 
-Tecnologia que sustenta o futuro.
+04 — TECNOLOGIAS
+
+C# · .NET · TypeScript · JavaScript
+SQL · Flutter · APIs
+
+
+KODEXBASE
+TECNOLOGIA QUE SUSTENTA O FUTURO.

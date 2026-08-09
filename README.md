@@ -1,41 +1,204 @@
-KODEXBASE
+<div align="center">
 
-TECNOLOGIA QUE
-SUSTENTA O FUTURO.
+# KODEXBASE
 
-Software sob medida para empresas
-que querem crescer com estrutura.
+### TECNOLOGIA QUE SUSTENTA O FUTURO.
 
-[SISTEMAS] [APLICATIVOS] [AUTOMAÇÃO]
+**Software sob medida para empresas que querem crescer com estrutura.**
 
+<br>
 
-01 — O QUE FAZEMOS
+`SYSTEMS` &nbsp; `APPLICATIONS` &nbsp; `AUTOMATION` &nbsp; `INTEGRATIONS`
 
-Construímos soluções digitais para
-simplificar operações e transformar
-processos em sistemas.
+<br><br>
 
+</div>
 
-02 — SOLUÇÕES
+---
 
-→ Sistemas personalizados
-→ Aplicativos
-→ Automação
-→ Dashboards
-→ Integrações
-→ Sistemas internos
+## ◇ SOBRE A KODEXBASE
 
+A **KodexBase** desenvolve soluções digitais sob medida para empresas que precisam transformar processos complexos em sistemas simples, organizados e eficientes.
 
-03 — PROJETOS
+Nosso foco não é apenas desenvolver software.
 
-Projetos desenvolvidos pela KodexBase.
+É **entender o problema, estruturar a solução e construir tecnologia que realmente faça sentido para o negócio.**
 
+<br>
 
-04 — TECNOLOGIAS
+---
 
-C# · .NET · TypeScript · JavaScript
-SQL · Flutter · APIs
+## ◇ O QUE DESENVOLVEMOS
 
+<table>
+<tr>
+<td width="50%">
 
-KODEXBASE
-TECNOLOGIA QUE SUSTENTA O FUTURO.
+### ⚡ SISTEMAS
+
+Sistemas personalizados para gestão, operação e controle empresarial.
+
+</td>
+
+<td width="50%">
+
+### ◇ APLICATIVOS
+
+Aplicações Web e Mobile desenvolvidas para diferentes necessidades.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ⚙️ AUTOMAÇÃO
+
+Automação de processos para reduzir tarefas manuais e aumentar produtividade.
+
+</td>
+
+<td width="50%">
+
+### 🔗 INTEGRAÇÕES
+
+Integração entre sistemas, APIs, bancos de dados e ferramentas.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+## ◇ NOSSO PROCESSO
+
+<table>
+<tr>
+<td align="center" width="20%">
+
+### 01
+
+**ENTENDER**
+
+Problema
+
+</td>
+
+<td align="center" width="20%">
+
+### 02
+
+**PLANEJAR**
+
+Estratégia
+
+</td>
+
+<td align="center" width="20%">
+
+### 03
+
+**DESENVOLVER**
+
+Software
+
+</td>
+
+<td align="center" width="20%">
+
+### 04
+
+**INTEGRAR**
+
+Tecnologia
+
+</td>
+
+<td align="center" width="20%">
+
+### 05
+
+**EVOLUIR**
+
+Resultado
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+## ◇ PROJETOS
+
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+### SISTEMAS
+
+Gestão empresarial  
+Dashboards  
+Sistemas internos
+
+</td>
+
+<td width="33%" align="center">
+
+### APLICAÇÕES
+
+Web  
+Mobile  
+Plataformas digitais
+
+</td>
+
+<td width="33%" align="center">
+
+### AUTOMAÇÕES
+
+Processos  
+Integrações  
+APIs
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+---
+
+## ◇ TECNOLOGIAS
+
+<div align="center">
+
+`C#` ` .NET ` `TypeScript` `JavaScript` `Python`
+
+`SQL` `Flutter` `APIs` `Git` `GitHub`
+
+</div>
+
+<br>
+
+---
+
+## ◇ PRINCÍPIO
+
+<div align="center">
+
+### Tecnologia não deve complicar.
+
+### Deve **resolver.**
+
+<br>
+
+**KodexBase**  
+*Tecnologia que sustenta o futuro.*
+
+</div>

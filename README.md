@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./github%20banner.jpg" width="100%" alt="KodexBase - Software Engineering">
+<img src="./github%20banner.png" width="100%" alt="KodexBase - Software Engineering">
 
 <br><br>
 
